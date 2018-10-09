@@ -31,7 +31,7 @@ public class AuditionTest {
 		}
 		
 		
-		//This adds 2 dancers using a unique ID for each
+		//This adds two dancers using a unique ID for each
 		System.out.println("Adding Dancers...");
 		for (int i = 0; i < 2; i++) {			
 			System.out.println("Please provide the dancer's style of dance: "); //asks user to provide style of dance
